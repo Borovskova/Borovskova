@@ -36,7 +36,7 @@ I'm a Middle Software Engineer at AppsFlyer, a full-stack developer, a cloud eng
      <img src="assets/goland.png" alt="goland" style="width: 250px;
     height: 200px;
     object-fit: contain;" />
-     <img src="assets/react-native.png" alt="react-native" style="width: 250px;
+     <img src="assets/react-native.png" alt="react-native" style="width: 230px;
     height: 200px;
     object-fit: contain;" />
 
