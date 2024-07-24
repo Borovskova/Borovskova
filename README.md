@@ -11,8 +11,7 @@ I'm a Middle Software Engineer at AppsFlyer, a full-stack developer, a cloud eng
 
 <div style="display:flex; flex-wrap: wrap; gap: 10px;">
     <img src="assets/angular.png" alt="angular" style="width: 200px;
-    height: 100px;
-    object-fit: contain;" />
+    height: 100px; object-fit: contain;" />
      <img src="assets/vue-js.png" alt="vue-js" style="width: 200px;
     height: 100px;
     object-fit: contain;" />
@@ -32,13 +31,18 @@ I'm a Middle Software Engineer at AppsFlyer, a full-stack developer, a cloud eng
 
 #### My next goals
 
-![Python](assets/python.png)
-![Goland](assets/goland.png)
-![React Native](assets/react-native.png)
+ <img src="assets/python.png" alt="python" style="width: 200px;
+    height: 200px; object-fit: contain;" />
+     <img src="assets/goland.png" alt="goland" style="width: 250px;
+    height: 200px;
+    object-fit: contain;" />
+     <img src="assets/goland.png" alt="goland" style="width: 250px;
+    height: 200px;
+    object-fit: contain;" />
 
 ### Get in touch with me!
 
-[![](assets/linked-in.png)](https://www.linkedin.com/in/yevheniia-borovskova-759830212)
+[![](assets/linked-in.jpg)](https://www.linkedin.com/in/yevheniia-borovskova-759830212)
 
 <!--
 **Borovskova/Borovskova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
