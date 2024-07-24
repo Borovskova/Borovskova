@@ -43,7 +43,7 @@ I'm a Middle Software Engineer at AppsFlyer, a full-stack developer, a cloud eng
 ### Get in touch with me!
 
 <a href="https://www.linkedin.com/in/yevheniia-borovskova-759830212" target="blank">
-     <img src="assets/linked-in.png" alt="react-native" style="width: 40px;
+     <img src="assets/linked-in.png" alt="react-native" style="width: 40px; border-radius: 20px;
     height: 40px;
     object-fit: contain;" />
 </a>
