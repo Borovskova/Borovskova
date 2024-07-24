@@ -1,4 +1,4 @@
-[![Yevheniia Borovskova - Full Stack Developer](assets/header_bg.png)](https://www.linkedin.com/in/yevheniia-borovskova-759830212/)
+[![Yevheniia Borovskova - Full Stack Developer](assets/header-bg.png)](https://www.linkedin.com/in/yevheniia-borovskova-759830212/)
 ## Hi there 👋
 
 Welcome to my corner of GitHub! ✨
@@ -40,7 +40,7 @@ I'm a Middle Software Engineer at AppsFlyer, a full-stack developer, a cloud eng
     height: 200px;
     object-fit: contain;" />
 
-### Get in touch with me!
+### Get in touch with me
 
 <a href="https://www.linkedin.com/in/yevheniia-borovskova-759830212" target="blank">
      <img src="assets/linked-in.png" alt="react-native" style="width: 40px; border-radius: 20px;
