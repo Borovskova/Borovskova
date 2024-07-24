@@ -9,12 +9,26 @@ I'm a Middle Software Engineer at AppsFlyer, a full-stack developer, a cloud eng
 
 #### The main technologies I use are
 
-![Angular](assets/angular.png)
-![Vue.js](assets/vue-js.png)
-![Node.js](assets/node-js.png)
-![NestJS](assets/nest-js.png)
-![AWS](assets/aws.png)
-![Google Cloud](assets/google.png)
+<div style="display:flex; flex-wrap: wrap; gap: 10px;">
+    <img src="assets/angular.png" alt="angular" style="width: 200px;
+    height: 100px;
+    object-fit: contain;" />
+     <img src="assets/vue-js.png" alt="vue-js" style="width: 200px;
+    height: 100px;
+    object-fit: contain;" />
+     <img src="assets/node-js.png" alt="node-js" style="width: 200px;
+    height: 100px;
+    object-fit: contain;" />
+     <img src="assets/nest-js.png" alt="nest-js" style="width: 200px;
+    height: 100px;
+    object-fit: contain;" />
+     <img src="assets/aws.png" alt="aws" style="width: 200px;
+    height: 100px;
+    object-fit: contain;" />
+      <img src="assets/google.png" alt="google" style="width: 200px;
+    height: 100px;
+    object-fit: contain;" />
+</div>
 
 #### My next goals
 
