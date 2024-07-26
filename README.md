@@ -11,17 +11,17 @@ I'm a Middle Software Engineer at AppsFlyer, a full-stack developer, a cloud eng
 
 <div style="display:flex; flex-wrap: wrap; gap: 10px;">
     <img src="assets/angular.png" alt="angular" style="width: 150px;
-   height:60px; object-fit: contain;" />
+   height:80px; object-fit: contain;" />
      <img src="assets/vue-js.png" alt="vue-js" style="width: 150px;
-   height:60px;" />
+   height:80px;" />
      <img src="assets/node-js.png" alt="node-js" style="width: 150px;
-   height:60px;" />
+   height:80px;" />
      <img src="assets/nest-js.png" alt="nest-js" style="width: 150px;
-   height:60px;" />
+   height:80px;" />
      <img src="assets/aws.png" alt="aws" style="width: 150px;
-   height:60px;" />
+   height:80px;" />
       <img src="assets/google.png" alt="google" style="width: 150px;
-   height:60px;" />
+   height:80px;" />
 </div>
 
 #### My next goals
