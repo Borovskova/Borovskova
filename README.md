@@ -37,7 +37,7 @@ I'm a Middle Software Engineer at AppsFlyer, a full-stack developer, a cloud eng
 
 <a href="https://www.linkedin.com/in/yevheniia-borovskova-759830212" target="blank">
      <img src="assets/linkedin.png" alt="linkedin" style="width: 40px;
-    height: 35px; />
+    height: 35px;" />
 </a>
 
 <!--
