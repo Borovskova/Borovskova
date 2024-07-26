@@ -11,27 +11,27 @@ I'm a Middle Software Engineer at AppsFlyer, a full-stack developer, a cloud eng
 
 <div style="display:flex; flex-wrap: wrap; gap: 10px;">
     <img src="assets/angular.png" alt="angular" style="width: 150px;
-    height: 70px; object-fit: contain;" />
+   height:60px; object-fit: contain;" />
      <img src="assets/vue-js.png" alt="vue-js" style="width: 150px;
-    height: 70px;" />
+   height:60px;" />
      <img src="assets/node-js.png" alt="node-js" style="width: 150px;
-    height: 70px;" />
+   height:60px;" />
      <img src="assets/nest-js.png" alt="nest-js" style="width: 150px;
-    height: 70px;" />
+   height:60px;" />
      <img src="assets/aws.png" alt="aws" style="width: 150px;
-    height: 70px;" />
+   height:60px;" />
       <img src="assets/google.png" alt="google" style="width: 150px;
-    height: 70px;" />
+   height:60px;" />
 </div>
 
 #### My next goals
 
  <img src="assets/python.png" alt="python" style="width: 150px;
-    height: 70px;" />
+   height:60px;" />
      <img src="assets/goland.png" alt="goland" style="width: 150px;
-    height: 70px;" />
+   height:60px;" />
      <img src="assets/react-native.png" alt="react-native" style="width: 150px;
-    height: 70px;" />
+   height:60px;" />
 
 ### Get in touch with me
 
