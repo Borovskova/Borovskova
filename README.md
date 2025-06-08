@@ -3,7 +3,7 @@
 
 Welcome to my corner of GitHub! ✨
 
-I'm a Middle Software Engineer at AppsFlyer, a full-stack developer, and a cloud engineer who is interested in learning new technologies and everything about IT💻
+I'm a Software Engineer at AppsFlyer (Full-stack | Cloud). Driven by curiosity, I'm constantly learning new technologies and exploring the vast world of IT💻
 
 ---
 
